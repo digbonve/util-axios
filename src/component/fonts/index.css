@@ -1,0 +1,26 @@
+@font-face {
+  font-family: 'iconfont';
+  src: url('../../assets/fonts/iconfont.eot');
+  src: url('../../assets/fonts/iconfont.eot?#iefix') format('embedded-opentype'),
+      url('../../assets/fonts/iconfont.woff2') format('woff2'),
+      url('../../assets/fonts/iconfont.woff') format('woff'),
+      url('../../assets/fonts/iconfont.ttf') format('truetype'),
+      url('../../assets/fonts/iconfont.svg#iconfont') format('svg');
+}
+
+.iconfont-unicode {
+  font-family: "iconfont" !important;
+  font-size: 40px;
+  color: pink;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon {
+  width: 1em;
+  height: 1em;
+  vertical-align: -0.15em;
+  fill: currentColor;
+  overflow: hidden;
+}
