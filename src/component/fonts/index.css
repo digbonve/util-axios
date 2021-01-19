@@ -7,7 +7,15 @@
       url('../../assets/fonts/iconfont.ttf') format('truetype'),
       url('../../assets/fonts/iconfont.svg#iconfont') format('svg');
 }
-
+@font-face {
+  font-family: 'iconfont';  /* project id 2333662 */
+  src: url('//at.alicdn.com/t/font_2333662_405fzbyxlor.eot');
+  src: url('//at.alicdn.com/t/font_2333662_405fzbyxlor.eot?#iefix') format('embedded-opentype'),
+  url('//at.alicdn.com/t/font_2333662_405fzbyxlor.woff2') format('woff2'),
+  url('//at.alicdn.com/t/font_2333662_405fzbyxlor.woff') format('woff'),
+  url('//at.alicdn.com/t/font_2333662_405fzbyxlor.ttf') format('truetype'),
+  url('//at.alicdn.com/t/font_2333662_405fzbyxlor.svg#iconfont') format('svg');
+}
 .iconfont-unicode {
   font-family: "iconfont" !important;
   font-size: 40px;

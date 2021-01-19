@@ -7,7 +7,7 @@ export default function () {
   const list = [];
   // Unicode
   const unicode = document.createElement('i');
-  unicode.innerHTML = '&#xe639;';
+  unicode.innerHTML = '&#xe639;&#xe80a;&#xe689;&#xe632;&#xe646;';
   unicode.classList.add('iconfont-unicode')
   list.push(unicode);
   // Font class
@@ -16,5 +16,6 @@ export default function () {
   i.classList.add(['icon-rocket']);
   i.style.fontSize = '40px';
   list.push(i);
+  
   return list;
 }
